@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital.HTML", "Digital.HTML\Digital.HTML.csproj", "{D1CB7D57-2DB9-40C2-B8CA-E43844FF838A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Digital.SET", "Digital.SET\Digital.SET.csproj", "{A7B001B8-21AD-45D3-A3F4-3B19153696ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D1CB7D57-2DB9-40C2-B8CA-E43844FF838A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1CB7D57-2DB9-40C2-B8CA-E43844FF838A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1CB7D57-2DB9-40C2-B8CA-E43844FF838A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B001B8-21AD-45D3-A3F4-3B19153696ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B001B8-21AD-45D3-A3F4-3B19153696ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B001B8-21AD-45D3-A3F4-3B19153696ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B001B8-21AD-45D3-A3F4-3B19153696ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
